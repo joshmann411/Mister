@@ -1,0 +1,778 @@
+[
+  {
+    "id": 1,
+    "title": "Essence Mascara Lash Princess",
+    "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+    "category": "beauty",
+    "brand": "Essence",
+    "price": 9.99,
+    "discountPercentage": 10.48,
+    "rating": 2.56,
+    "stock": 99,
+    "tags": [
+      "beauty",
+      "mascara"
+    ],
+    "image": "/images/products/product-01.webp"
+  },
+  {
+    "id": 2,
+    "title": "Eyeshadow Palette with Mirror",
+    "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+    "category": "beauty",
+    "brand": "Glamour Beauty",
+    "price": 19.99,
+    "discountPercentage": 18.19,
+    "rating": 2.86,
+    "stock": 34,
+    "tags": [
+      "beauty",
+      "eyeshadow"
+    ],
+    "image": "/images/products/product-02.webp"
+  },
+  {
+    "id": 3,
+    "title": "Powder Canister",
+    "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+    "category": "beauty",
+    "brand": "Velvet Touch",
+    "price": 14.99,
+    "discountPercentage": 9.84,
+    "rating": 4.64,
+    "stock": 89,
+    "tags": [
+      "beauty",
+      "face powder"
+    ],
+    "image": "/images/products/product-03.webp"
+  },
+  {
+    "id": 4,
+    "title": "Red Lipstick",
+    "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+    "category": "beauty",
+    "brand": "Chic Cosmetics",
+    "price": 12.99,
+    "discountPercentage": 12.16,
+    "rating": 4.36,
+    "stock": 91,
+    "tags": [
+      "beauty",
+      "lipstick"
+    ],
+    "image": "/images/products/product-04.webp"
+  },
+  {
+    "id": 5,
+    "title": "Red Nail Polish",
+    "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+    "category": "beauty",
+    "brand": "Nail Couture",
+    "price": 8.99,
+    "discountPercentage": 11.44,
+    "rating": 4.32,
+    "stock": 79,
+    "tags": [
+      "beauty",
+      "nail polish"
+    ],
+    "image": "/images/products/product-05.webp"
+  },
+  {
+    "id": 6,
+    "title": "Calvin Klein CK One",
+    "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+    "category": "fragrances",
+    "brand": "Calvin Klein",
+    "price": 49.99,
+    "discountPercentage": 1.89,
+    "rating": 4.37,
+    "stock": 29,
+    "tags": [
+      "fragrances",
+      "perfumes"
+    ],
+    "image": "/images/products/product-06.webp"
+  },
+  {
+    "id": 7,
+    "title": "Chanel Coco Noir Eau De",
+    "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+    "category": "fragrances",
+    "brand": "Chanel",
+    "price": 129.99,
+    "discountPercentage": 16.51,
+    "rating": 4.26,
+    "stock": 58,
+    "tags": [
+      "fragrances",
+      "perfumes"
+    ],
+    "image": "/images/products/product-07.webp"
+  },
+  {
+    "id": 8,
+    "title": "Dior J'adore",
+    "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+    "category": "fragrances",
+    "brand": "Dior",
+    "price": 89.99,
+    "discountPercentage": 14.72,
+    "rating": 3.8,
+    "stock": 98,
+    "tags": [
+      "fragrances",
+      "perfumes"
+    ],
+    "image": "/images/products/product-08.webp"
+  },
+  {
+    "id": 9,
+    "title": "Dolce Shine Eau de",
+    "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+    "category": "fragrances",
+    "brand": "Dolce & Gabbana",
+    "price": 69.99,
+    "discountPercentage": 0.62,
+    "rating": 3.96,
+    "stock": 4,
+    "tags": [
+      "fragrances",
+      "perfumes"
+    ],
+    "image": "/images/products/product-09.webp"
+  },
+  {
+    "id": 10,
+    "title": "Gucci Bloom Eau de",
+    "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+    "category": "fragrances",
+    "brand": "Gucci",
+    "price": 79.99,
+    "discountPercentage": 14.39,
+    "rating": 2.74,
+    "stock": 91,
+    "tags": [
+      "fragrances",
+      "perfumes"
+    ],
+    "image": "/images/products/product-10.webp"
+  },
+  {
+    "id": 11,
+    "title": "Annibale Colombo Bed",
+    "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+    "category": "furniture",
+    "brand": "Annibale Colombo",
+    "price": 1899.99,
+    "discountPercentage": 8.57,
+    "rating": 4.77,
+    "stock": 88,
+    "tags": [
+      "furniture",
+      "beds"
+    ],
+    "image": "/images/products/product-11.webp"
+  },
+  {
+    "id": 12,
+    "title": "Annibale Colombo Sofa",
+    "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+    "category": "furniture",
+    "brand": "Annibale Colombo",
+    "price": 2499.99,
+    "discountPercentage": 14.4,
+    "rating": 3.92,
+    "stock": 60,
+    "tags": [
+      "furniture",
+      "sofas"
+    ],
+    "image": "/images/products/product-12.webp"
+  },
+  {
+    "id": 13,
+    "title": "Bedside Table African Cherry",
+    "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+    "category": "furniture",
+    "brand": "Furniture Co.",
+    "price": 299.99,
+    "discountPercentage": 19.09,
+    "rating": 2.87,
+    "stock": 64,
+    "tags": [
+      "furniture",
+      "bedside tables"
+    ],
+    "image": "/images/products/product-13.webp"
+  },
+  {
+    "id": 14,
+    "title": "Knoll Saarinen Executive Conference Chair",
+    "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+    "category": "furniture",
+    "brand": "Knoll",
+    "price": 499.99,
+    "discountPercentage": 2.01,
+    "rating": 4.88,
+    "stock": 26,
+    "tags": [
+      "furniture",
+      "office chairs"
+    ],
+    "image": "/images/products/product-14.webp"
+  },
+  {
+    "id": 15,
+    "title": "Wooden Bathroom Sink With Mirror",
+    "description": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+    "category": "furniture",
+    "brand": "Bath Trends",
+    "price": 799.99,
+    "discountPercentage": 8.8,
+    "rating": 3.59,
+    "stock": 7,
+    "tags": [
+      "furniture",
+      "bathroom"
+    ],
+    "image": "/images/products/product-15.webp"
+  },
+  {
+    "id": 16,
+    "title": "Apple",
+    "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 1.99,
+    "discountPercentage": 12.62,
+    "rating": 4.19,
+    "stock": 8,
+    "tags": [
+      "fruits"
+    ],
+    "image": "/images/products/product-16.webp"
+  },
+  {
+    "id": 17,
+    "title": "Beef Steak",
+    "description": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 12.99,
+    "discountPercentage": 9.61,
+    "rating": 4.47,
+    "stock": 86,
+    "tags": [
+      "meat"
+    ],
+    "image": "/images/products/product-17.webp"
+  },
+  {
+    "id": 18,
+    "title": "Cat Food",
+    "description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 8.99,
+    "discountPercentage": 9.58,
+    "rating": 3.13,
+    "stock": 46,
+    "tags": [
+      "pet supplies",
+      "cat food"
+    ],
+    "image": "/images/products/product-18.webp"
+  },
+  {
+    "id": 19,
+    "title": "Chicken Meat",
+    "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 9.99,
+    "discountPercentage": 13.7,
+    "rating": 3.19,
+    "stock": 97,
+    "tags": [
+      "meat"
+    ],
+    "image": "/images/products/product-19.webp"
+  },
+  {
+    "id": 20,
+    "title": "Cooking Oil",
+    "description": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 4.99,
+    "discountPercentage": 9.33,
+    "rating": 4.8,
+    "stock": 10,
+    "tags": [
+      "cooking essentials"
+    ],
+    "image": "/images/products/product-20.webp"
+  },
+  {
+    "id": 21,
+    "title": "Cucumber",
+    "description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 1.49,
+    "discountPercentage": 0.16,
+    "rating": 4.07,
+    "stock": 84,
+    "tags": [
+      "vegetables"
+    ],
+    "image": "/images/products/product-21.webp"
+  },
+  {
+    "id": 22,
+    "title": "Dog Food",
+    "description": "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 10.99,
+    "discountPercentage": 10.27,
+    "rating": 4.55,
+    "stock": 71,
+    "tags": [
+      "pet supplies",
+      "dog food"
+    ],
+    "image": "/images/products/product-22.webp"
+  },
+  {
+    "id": 23,
+    "title": "Eggs",
+    "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 2.99,
+    "discountPercentage": 11.05,
+    "rating": 2.53,
+    "stock": 9,
+    "tags": [
+      "dairy"
+    ],
+    "image": "/images/products/product-23.webp"
+  },
+  {
+    "id": 24,
+    "title": "Fish Steak",
+    "description": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 14.99,
+    "discountPercentage": 4.23,
+    "rating": 3.78,
+    "stock": 74,
+    "tags": [
+      "seafood"
+    ],
+    "image": "/images/products/product-24.webp"
+  },
+  {
+    "id": 25,
+    "title": "Green Bell Pepper",
+    "description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 1.29,
+    "discountPercentage": 0.16,
+    "rating": 3.25,
+    "stock": 33,
+    "tags": [
+      "vegetables"
+    ],
+    "image": "/images/products/product-25.webp"
+  },
+  {
+    "id": 26,
+    "title": "Green Chili Pepper",
+    "description": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 0.99,
+    "discountPercentage": 1,
+    "rating": 3.66,
+    "stock": 3,
+    "tags": [
+      "vegetables"
+    ],
+    "image": "/images/products/product-26.webp"
+  },
+  {
+    "id": 27,
+    "title": "Honey Jar",
+    "description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 6.99,
+    "discountPercentage": 14.4,
+    "rating": 3.97,
+    "stock": 34,
+    "tags": [
+      "condiments"
+    ],
+    "image": "/images/products/product-27.webp"
+  },
+  {
+    "id": 28,
+    "title": "Ice Cream",
+    "description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 5.49,
+    "discountPercentage": 8.69,
+    "rating": 3.39,
+    "stock": 27,
+    "tags": [
+      "desserts"
+    ],
+    "image": "/images/products/product-28.webp"
+  },
+  {
+    "id": 29,
+    "title": "Juice",
+    "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 3.99,
+    "discountPercentage": 12.06,
+    "rating": 3.94,
+    "stock": 50,
+    "tags": [
+      "beverages"
+    ],
+    "image": "/images/products/product-29.webp"
+  },
+  {
+    "id": 30,
+    "title": "Kiwi",
+    "description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 2.49,
+    "discountPercentage": 15.22,
+    "rating": 4.93,
+    "stock": 99,
+    "tags": [
+      "fruits"
+    ],
+    "image": "/images/products/product-30.webp"
+  },
+  {
+    "id": 31,
+    "title": "Lemon",
+    "description": "Zesty and tangy lemons, versatile for cooking, baking, or making refreshing beverages.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 0.79,
+    "discountPercentage": 9.7,
+    "rating": 3.53,
+    "stock": 31,
+    "tags": [
+      "fruits"
+    ],
+    "image": "/images/products/product-31.webp"
+  },
+  {
+    "id": 32,
+    "title": "Milk",
+    "description": "Fresh and nutritious milk, a staple for various recipes and daily consumption.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 3.49,
+    "discountPercentage": 13.74,
+    "rating": 2.61,
+    "stock": 27,
+    "tags": [
+      "dairy"
+    ],
+    "image": "/images/products/product-32.webp"
+  },
+  {
+    "id": 33,
+    "title": "Mulberry",
+    "description": "Sweet and juicy mulberries, perfect for snacking or adding to desserts and cereals.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 4.99,
+    "discountPercentage": 12.87,
+    "rating": 4.95,
+    "stock": 99,
+    "tags": [
+      "fruits"
+    ],
+    "image": "/images/products/product-33.webp"
+  },
+  {
+    "id": 34,
+    "title": "Nescafe Coffee",
+    "description": "Quality coffee from Nescafe, available in various blends for a rich and satisfying cup.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 7.99,
+    "discountPercentage": 1.59,
+    "rating": 4.82,
+    "stock": 57,
+    "tags": [
+      "beverages",
+      "coffee"
+    ],
+    "image": "/images/products/product-34.webp"
+  },
+  {
+    "id": 35,
+    "title": "Potatoes",
+    "description": "Versatile and starchy potatoes, great for roasting, mashing, or as a side dish.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 2.29,
+    "discountPercentage": 5.38,
+    "rating": 4.81,
+    "stock": 13,
+    "tags": [
+      "vegetables"
+    ],
+    "image": "/images/products/product-35.webp"
+  },
+  {
+    "id": 36,
+    "title": "Protein Powder",
+    "description": "Nutrient-packed protein powder, ideal for supplementing your diet with essential proteins.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 19.99,
+    "discountPercentage": 7.59,
+    "rating": 4.18,
+    "stock": 80,
+    "tags": [
+      "health supplements"
+    ],
+    "image": "/images/products/product-36.webp"
+  },
+  {
+    "id": 37,
+    "title": "Red Onions",
+    "description": "Flavorful and aromatic red onions, perfect for adding depth to your savory dishes.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 1.99,
+    "discountPercentage": 9.9,
+    "rating": 4.2,
+    "stock": 82,
+    "tags": [
+      "vegetables"
+    ],
+    "image": "/images/products/product-37.webp"
+  },
+  {
+    "id": 38,
+    "title": "Rice",
+    "description": "High-quality rice, a staple for various cuisines and a versatile base for many dishes.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 5.99,
+    "discountPercentage": 9.29,
+    "rating": 3.18,
+    "stock": 59,
+    "tags": [
+      "grains"
+    ],
+    "image": "/images/products/product-38.webp"
+  },
+  {
+    "id": 39,
+    "title": "Soft Drinks",
+    "description": "Assorted soft drinks in various flavors, perfect for refreshing beverages.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 1.99,
+    "discountPercentage": 17.48,
+    "rating": 4.75,
+    "stock": 53,
+    "tags": [
+      "beverages"
+    ],
+    "image": "/images/products/product-39.webp"
+  },
+  {
+    "id": 40,
+    "title": "Strawberry",
+    "description": "Sweet and succulent strawberries, great for snacking, desserts, or blending into smoothies.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 3.99,
+    "discountPercentage": 1.12,
+    "rating": 3.08,
+    "stock": 46,
+    "tags": [
+      "fruits"
+    ],
+    "image": "/images/products/product-40.webp"
+  },
+  {
+    "id": 41,
+    "title": "Tissue Paper Box",
+    "description": "Convenient tissue paper box for everyday use, providing soft and absorbent tissues.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 2.49,
+    "discountPercentage": 13.28,
+    "rating": 2.69,
+    "stock": 86,
+    "tags": [
+      "household essentials"
+    ],
+    "image": "/images/products/product-41.webp"
+  },
+  {
+    "id": 42,
+    "title": "Water",
+    "description": "Pure and refreshing bottled water, essential for staying hydrated throughout the day.",
+    "category": "groceries",
+    "brand": "Generic",
+    "price": 0.99,
+    "discountPercentage": 14.92,
+    "rating": 4.96,
+    "stock": 53,
+    "tags": [
+      "beverages"
+    ],
+    "image": "/images/products/product-42.webp"
+  },
+  {
+    "id": 43,
+    "title": "Decoration Swing",
+    "description": "The Decoration Swing is a charming addition to your home decor. Crafted with intricate details, it adds a touch of elegance and whimsy to any room.",
+    "category": "home-decoration",
+    "brand": "Generic",
+    "price": 59.99,
+    "discountPercentage": 10.41,
+    "rating": 3.16,
+    "stock": 47,
+    "tags": [
+      "home decor",
+      "swing"
+    ],
+    "image": "/images/products/product-43.webp"
+  },
+  {
+    "id": 44,
+    "title": "Family Tree Photo Frame",
+    "description": "The Family Tree Photo Frame is a sentimental and stylish way to display your cherished family memories. With multiple photo slots, it tells the story of your loved ones.",
+    "category": "home-decoration",
+    "brand": "Generic",
+    "price": 29.99,
+    "discountPercentage": 14.87,
+    "rating": 4.53,
+    "stock": 77,
+    "tags": [
+      "home decor",
+      "photo frame"
+    ],
+    "image": "/images/products/product-44.webp"
+  },
+  {
+    "id": 45,
+    "title": "House Showpiece Plant",
+    "description": "The House Showpiece Plant is an artificial plant that brings a touch of nature to your home without the need for maintenance. It adds greenery and style to any space.",
+    "category": "home-decoration",
+    "brand": "Generic",
+    "price": 39.99,
+    "discountPercentage": 7.46,
+    "rating": 4.67,
+    "stock": 28,
+    "tags": [
+      "home decor",
+      "artificial plants"
+    ],
+    "image": "/images/products/product-45.webp"
+  },
+  {
+    "id": 46,
+    "title": "Plant Pot",
+    "description": "The Plant Pot is a stylish container for your favorite plants. With a sleek design, it complements your indoor or outdoor garden, adding a modern touch to your plant display.",
+    "category": "home-decoration",
+    "brand": "Generic",
+    "price": 14.99,
+    "discountPercentage": 6.84,
+    "rating": 3.01,
+    "stock": 59,
+    "tags": [
+      "home decor",
+      "plant accessories"
+    ],
+    "image": "/images/products/product-46.webp"
+  },
+  {
+    "id": 47,
+    "title": "Table Lamp",
+    "description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere.",
+    "category": "home-decoration",
+    "brand": "Generic",
+    "price": 49.99,
+    "discountPercentage": 7.09,
+    "rating": 3.55,
+    "stock": 9,
+    "tags": [
+      "home decor",
+      "lighting"
+    ],
+    "image": "/images/products/product-47.webp"
+  },
+  {
+    "id": 48,
+    "title": "Bamboo Spatula",
+    "description": "The Bamboo Spatula is a versatile kitchen tool made from eco-friendly bamboo. Ideal for flipping, stirring, and serving various dishes.",
+    "category": "kitchen-accessories",
+    "brand": "Generic",
+    "price": 7.99,
+    "discountPercentage": 2.84,
+    "rating": 3.27,
+    "stock": 37,
+    "tags": [
+      "kitchen tools",
+      "utensils"
+    ],
+    "image": "/images/products/product-48.webp"
+  },
+  {
+    "id": 49,
+    "title": "Black Aluminium Cup",
+    "description": "The Black Aluminium Cup is a stylish and durable cup suitable for both hot and cold beverages. Its sleek black design adds a modern touch to your drinkware collection.",
+    "category": "kitchen-accessories",
+    "brand": "Generic",
+    "price": 5.99,
+    "discountPercentage": 15.65,
+    "rating": 4.46,
+    "stock": 75,
+    "tags": [
+      "drinkware",
+      "cups"
+    ],
+    "image": "/images/products/product-49.webp"
+  },
+  {
+    "id": 50,
+    "title": "Black Whisk",
+    "description": "The Black Whisk is a kitchen essential for whisking and beating ingredients. Its ergonomic handle and sleek design make it a practical and stylish tool.",
+    "category": "kitchen-accessories",
+    "brand": "Generic",
+    "price": 9.99,
+    "discountPercentage": 10.24,
+    "rating": 3.9,
+    "stock": 73,
+    "tags": [
+      "kitchen tools",
+      "utensils"
+    ],
+    "image": "/images/products/product-50.webp"
+  }
+]
